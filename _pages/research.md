@@ -4,7 +4,7 @@ permalink: /research/
 title: research
 description: 
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 You can find a short 10-minute video on my research [here](https://www.youtube.com/watch?v=07XSK4Du7dc), and a copy of my research statement [here](../assets/pdf/ResearchStatement.pdf).
