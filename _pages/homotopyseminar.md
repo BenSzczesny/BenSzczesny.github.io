@@ -56,7 +56,32 @@ In this talk I will forgo the physics aspect completely and instead focus on the
 <tr>
 <td></td>
 <td markdown="span">
-Abstract TBD
+<!-- Abstract Here-->
+</td>
+</tr>
+
+<tr>
+<td markdown="span">**Nov 16, 2023**</td>
+<td markdown="span">
+**TBD** <br> [Connor Malin (University of Notre Dame)](https://cwmalin214.github.io/) </td>
+</tr>
+<tr>
+<td></td>
+<td markdown="span">
+<!-- Abstract Here-->
+</td>
+</tr>
+
+
+<tr>
+<td markdown="span">**Nov 30, 2023**</td>
+<td markdown="span">
+**TBD** <br> [Sanath Devalapurkar (Havard)](https://sanathdevalapurkar.github.io/) </td>
+</tr>
+<tr>
+<td></td>
+<td markdown="span">
+<!-- Abstract Here-->
 </td>
 </tr>
 
@@ -68,7 +93,7 @@ Abstract TBD
 <tr>
 <td></td>
 <td markdown="span">
-Abstract TBD
+<!-- Abstract Here-->
 </td>
 </tr>
 
