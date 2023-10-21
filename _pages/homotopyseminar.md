@@ -51,12 +51,12 @@ In this talk I will forgo the physics aspect completely and instead focus on the
 <tr>
 <td markdown="span">**Nov 2, 2023**</td>
 <td markdown="span">
-**TBD** <br> [Ben Spitz (University of California, Los Angeles)](https://www.math.ucla.edu/~benspitz/) </td>
+Mackey and Tambara Functors Beyond Equivariant Homotopy <br> [Ben Spitz (University of California, Los Angeles)](https://www.math.ucla.edu/~benspitz/) </td>
 </tr>
 <tr>
 <td></td>
 <td markdown="span">
-<!-- Abstract Here-->
+"Classically", Mackey and Tambara functors are equivariant generalizations of abelian groups and commutative rings, respectively. What this means is that, in equivariant homotopy theory, Mackey functors appear wherever one would expect to find abelian groups, and Tambara functors appear wherever one would expect to find commutative rings. More recently, work by Bachmann has garnered interest in related structures which appear in motivic homotopy theory -- these Motivic Mackey Functors and Motivic Tambara Functors do not have anything to do with group-equivariance, but have the same axiomatic. In this talk, I'll introduce a general context for interpreting the notions of Mackey and Tambara Functors, which subsumes both the equivariant and motivic notions. The aim of this approach is to translate theorems between contexts, enriching the theory and providing cleaner proofs of essential facts. To this end, I'll discuss recent progress in boosting a foundational result about norms from equivariant algebra to this more general context.
 </td>
 </tr>
 
