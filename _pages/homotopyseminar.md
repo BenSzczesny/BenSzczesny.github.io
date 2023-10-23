@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-(A temporary page for the seminar) The Homotopy Seminar @OSU is currently co-organized by myself and Zeshen Gu. The Seminar meeting time is 5-6pm Thursday in JR0304 (Journalism Building) unless otherwise advertised.
+The Homotopy Seminar @OSU is currently co-organized by myself and Zeshen Gu. The Seminar meeting time is 5-6pm Thursday in JR0304 (Journalism Building) unless otherwise advertised.
 
 ## Autumn 2023 Schedule
 <table>
@@ -56,7 +56,7 @@ Mackey and Tambara Functors Beyond Equivariant Homotopy <br> [Ben Spitz (Univers
 <tr>
 <td></td>
 <td markdown="span">
-"Classically", Mackey and Tambara functors are equivariant generalizations of abelian groups and commutative rings, respectively. What this means is that, in equivariant homotopy theory, Mackey functors appear wherever one would expect to find abelian groups, and Tambara functors appear wherever one would expect to find commutative rings. More recently, work by Bachmann has garnered interest in related structures which appear in motivic homotopy theory -- these Motivic Mackey Functors and Motivic Tambara Functors do not have anything to do with group-equivariance, but have the same axiomatic. In this talk, I'll introduce a general context for interpreting the notions of Mackey and Tambara Functors, which subsumes both the equivariant and motivic notions. The aim of this approach is to translate theorems between contexts, enriching the theory and providing cleaner proofs of essential facts. To this end, I'll discuss recent progress in boosting a foundational result about norms from equivariant algebra to this more general context.
+"Classically", Mackey and Tambara functors are equivariant generalizations of abelian groups and commutative rings, respectively. What this means is that, in equivariant homotopy theory, Mackey functors appear wherever one would expect to find abelian groups, and Tambara functors appear wherever one would expect to find commutative rings. More recently, work by Bachmann has garnered interest in related structures which appear in motivic homotopy theory -- these Motivic Mackey Functors and Motivic Tambara Functors do not have anything to do with group-equivariance, but have the same axiomatics. In this talk, I'll introduce a general context for interpreting the notions of Mackey and Tambara Functors, which subsumes both the equivariant and motivic notions. The aim of this approach is to translate theorems between contexts, enriching the theory and providing cleaner proofs of essential facts. To this end, I'll discuss recent progress in boosting a foundational result about norms from equivariant algebra to this more general context.
 </td>
 </tr>
 
