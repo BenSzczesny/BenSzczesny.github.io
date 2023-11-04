@@ -51,7 +51,7 @@ In this talk I will forgo the physics aspect completely and instead focus on the
 <tr>
 <td markdown="span">**Nov 2, 2023**</td>
 <td markdown="span">
-Mackey and Tambara Functors Beyond Equivariant Homotopy <br> [Ben Spitz (University of California, Los Angeles)](https://www.math.ucla.edu/~benspitz/) </td>
+**Mackey and Tambara Functors Beyond Equivariant Homotopy** <br> [Ben Spitz (University of California, Los Angeles)](https://www.math.ucla.edu/~benspitz/) </td>
 </tr>
 <tr>
 <td></td>
@@ -63,12 +63,12 @@ Mackey and Tambara Functors Beyond Equivariant Homotopy <br> [Ben Spitz (Univers
 <tr>
 <td markdown="span">**Nov 16, 2023**</td>
 <td markdown="span">
-**TBD** <br> [Connor Malin (University of Notre Dame)](https://cwmalin214.github.io/) </td>
+**A scanning construction of the self duality of the little disks operad** <br> [Connor Malin (University of Notre Dame)](https://cwmalin214.github.io/) </td>
 </tr>
 <tr>
 <td></td>
 <td markdown="span">
-<!-- Abstract Here-->
+Since the introduction of Koszul duality for operads, algebraists and homotopy theorists alike have wanted to understand its effect on the little disks operad En. Over the course of the last 30 years, our knowledge has steadily advanced. People showed (roughly chronologically) that H_*(En),C_*(En;Q),C_*(En;Z), and the categories of En algebras themselves were all self dual, finally culminating in the fact that the En operad in spectra is self dual. In this talk, we give a new, particularly tractable construction of the self duality of the spectral En operad and describe how it interacts with factorization homology.
 </td>
 </tr>
 
