@@ -72,28 +72,15 @@ Since the introduction of Koszul duality for operads, algebraists and homotopy t
 </td>
 </tr>
 
-
-<tr>
-<td markdown="span">**Nov 30, 2023**</td>
-<td markdown="span">
-**TBD** <br> [Sanath Devalapurkar (Havard)](https://sanathdevalapurkar.github.io/) </td>
-</tr>
-<tr>
-<td></td>
-<td markdown="span">
-<!-- Abstract Here-->
-</td>
-</tr>
-
 <tr>
 <td markdown="span">**Dec 7, 2023**</td>
 <td markdown="span">
-**TBD** <br> [Ishan Levy (MIT)](https://ishanina.github.io/) </td>
+**Telescopic stable homotopy theory** <br> [Ishan Levy (MIT)](https://ishanina.github.io/) </td>
 </tr>
 <tr>
 <td></td>
 <td markdown="span">
-<!-- Abstract Here-->
+Chromatic homotopy theory attempts to study the stable homotopy category by breaking it into v_n-periodic layers corresponding to height n formal groups. There are two natural ways to do this, via either the K(n)-localizations which are computationally accessible, or via the T(n)-localizations, which detect the v_n-periodic parts of the stable homotopy groups of spheres. Ravenel's telescope conjecture asks that these two localizations agree. For n at least 2 and all primes, I will discuss counterexamples to Ravenel’s telescope conjecture. Our counterexamples come from using trace methods to compute the T(n) and K(n)-localizations of the algebraic K-theory of a family of ring spectra, which in the case n=2 are certain finite Galois extensions of the K(1)-local sphere. I will then explain that this can be used to obtain an infinite family of elements in the v_n-periodic stable homotopy groups of spheres, giving the best known lower bound on the asymptotic average ranks of the stable stems. Finally, I will explain that the Galois group of the T(n)-local category agrees with that of the K(n)-local category, and how the failure of the telescope conjecture comes entirely from the failure of Galois hyperdescent. This talk comes from projects that are joint with Burklund, Carmeli, Clausen, Hahn, Schlank, and Yanovski.
 </td>
 </tr>
 
