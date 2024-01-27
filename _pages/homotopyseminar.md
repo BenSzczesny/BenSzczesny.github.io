@@ -7,7 +7,46 @@ nav: true
 nav_order: 4
 ---
 
-The Homotopy Seminar @OSU is currently co-organized by myself and Zeshen Gu. The Seminar meeting time is 5-6pm Thursday in JR0304 (Journalism Building) unless otherwise advertised.
+The Homotopy Seminar @OSU is currently co-organized by myself and Zeshen Gu. The Seminar meeting time is 1:45-2:45pm Tuesdays in MT152 unless otherwise advertised.
+
+## Spring 2024 Schedule
+
+<table>
+<colgroup>
+<col width="20%" />
+<col width="80%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Date</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td markdown="span">**Jan 30, 2024**</td>
+<td markdown="span">
+**The homotopy theory of ideals structured by operads **<br> David White </td>
+</tr>
+<tr>
+<td></td>
+<td markdown="span">
+In 2006, Jeff Smith gave a talk explaining how to define ideals in the context of ring spectra, and laying out applications to algebraic K-theory computations. In 2014, Mark Hovey posted a preprint working out the homotopy theory of such ideals. Since every map is homotopic to an inclusion, ideals must be defined diagrammatically rather than as subobjects. In this talk, I will explain the definition, and then discuss joint work with Donald Yau that extends Hovey’s work to develop a homotopy theory of ideals with additional structure encoded by an operad. If there’s time, I’ll discuss ongoing work in progress to carry out Smith’s plan regarding algebraic K-theory. 
+</td>
+</tr>
+
+
+
+
+
+
+
+
+
+</tbody>
+</table>
+
 
 ## Autumn 2023 Schedule
 <table>
@@ -86,5 +125,3 @@ Chromatic homotopy theory attempts to study the stable homotopy category by brea
 
 </tbody>
 </table>
-
-## Spring 2024 Schedule
