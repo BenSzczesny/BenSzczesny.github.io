@@ -27,7 +27,7 @@ The Homotopy Seminar @OSU is currently co-organized by myself and Zeshen Gu. The
 <tr>
 <td markdown="span">**Jan 30, 2024**</td>
 <td markdown="span">
-**The homotopy theory of ideals structured by operads **<br> David White </td>
+**The homotopy theory of ideals structured by operads**<br> David White </td>
 </tr>
 <tr>
 <td></td>
