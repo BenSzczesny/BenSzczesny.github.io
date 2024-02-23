@@ -36,12 +36,53 @@ In 2006, Jeff Smith gave a talk explaining how to define ideals in the context o
 </td>
 </tr>
 
+<tr>
+<td markdown="span">**March 5, 2024**</td>
+<td markdown="span">
+**TBD**<br> Candace Bethea </td>
+</tr>
+<tr>
+<td></td>
+<td markdown="span">
+TBD
+</td>
+</tr>
 
+<tr>
+<td markdown="span">**March 26, 2024**</td>
+<td markdown="span">
+**TBD**<br> Andrew Salch </td>
+</tr>
+<tr>
+<td></td>
+<td markdown="span">
+TBD
+</td>
+</tr>
 
+<tr>
+<td markdown="span">**April 2, 2024**</td>
+<td markdown="span">
+**TBD**<br> J.D. Quiqley </td>
+</tr>
+<tr>
+<td></td>
+<td markdown="span">
+TBD
+</td>
+</tr>
 
-
-
-
+<tr>
+<td markdown="span">**April 23, 2024**</td>
+<td markdown="span">
+**TBD**<br> Alicia Lima </td>
+</tr>
+<tr>
+<td></td>
+<td markdown="span">
+TBD
+</td>
+</tr>
 
 
 </tbody>
