@@ -63,7 +63,7 @@ TBD
 <tr>
 <td markdown="span">**April 2, 2024**</td>
 <td markdown="span">
-**TBD**<br> J.D. Quiqley </td>
+**TBD**<br> J.D. Quigley </td>
 </tr>
 <tr>
 <td></td>
