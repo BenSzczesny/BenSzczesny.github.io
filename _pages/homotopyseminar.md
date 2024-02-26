@@ -39,24 +39,28 @@ In 2006, Jeff Smith gave a talk explaining how to define ideals in the context o
 <tr>
 <td markdown="span">**March 5, 2024**</td>
 <td markdown="span">
-**TBD**<br> Candace Bethea </td>
+**Equivariantly enriched curve counting**<br> Candace Bethea </td>
 </tr>
 <tr>
 <td></td>
 <td markdown="span">
-TBD
+Enumerative geometry asks for integral solutions to geometric questions, such as how many genus g, degree d rational curves with n marked points lie on a given surface. Recently, motivic and equivariant homotopy have been used to generalize classical enumerative results to non-closed fields and under the presence of a group action respectively. In this talk, we will discuss the connections between equivariant homotopy theory and equivariant curve counting, specifically giving a count of nodal orbits in an invariant pencil of plane conics enriched in the Burnside Ring of a finite group. Time permitting, we will discuss joint work in progress with Kirsten Wickelgen on defining a local degree using stable equivariant homotopy theory and an application to Euler numbers. 
 </td>
 </tr>
 
 <tr>
 <td markdown="span">**March 26, 2024**</td>
 <td markdown="span">
-**TBD**<br> Andrew Salch </td>
+**ell-adic topological Jacquet-Langlands duality**<br> Andrew Salch </td>
 </tr>
 <tr>
 <td></td>
 <td markdown="span">
-TBD
+I will describe the construction of an "ell-adic topological Jacquet-Langlands (TJL) dual" of each finite CW-complex. One effect of the TJL dual is that the representations of the Morava stabilizer group, which arise in the height n Morava E-theory of a finite spectrum X, get turned into continuous actions of GL_n(Z_p) on the ell-adic TJL dual of X. On the level of homotopy groups, these actions of GL_n(Z_p) correspond, via the classical ell-adic Jacquet-Langlands correspondence, to the representations of the Morava stabilizer group on the Morava E-theory groups of X.
+
+When n=1, these representations of GL_1 have associated automorphic L-factors. I will explain how the product of those L-factors, i.e., the "automorphic L-function of a finite CW-complex X," analytically continues to a meromorphic function on the complex plane whose special values in the left half-plane recover the orders of the KU-local stable homotopy groups of X.
+
+Part of the construction of the TJL dual is a solution to an old problem on construction of E_\infty-ring realizations of the Lubin-Tate tower. I will describe that solution, which is joint work with Matthias Strauch.
 </td>
 </tr>
 
