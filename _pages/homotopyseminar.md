@@ -49,6 +49,18 @@ Enumerative geometry asks for integral solutions to geometric questions, such as
 </tr>
 
 <tr>
+<td markdown="span">**March 19, 2024**</td>
+<td markdown="span">
+**Synthetic cyclotomic spectra and the even filtration**<br> Noah Riggenbach </td>
+</tr>
+<tr>
+<td></td>
+<td markdown="span">
+Synthetic spectra, as defined by Pstrągowski, are infinity categories which act as deformations of the usual stable homotopy category. Having such deformations has made it possible to push our current techniques developed in the stable category much farther by applying them in synthetic spectra and forgetting down to spectra. In this talk I will discuss work, joint with Ben Antieau, which defines a similar deformation of cyclotomic spectra. As applications I will discuss the unification of the different filtrations, all of which are called the even filtration, constructed by Hahn-Raksit-Wilson.
+</td>
+</tr>
+
+<tr>
 <td markdown="span">**March 26, 2024**</td>
 <td markdown="span">
 **ell-adic topological Jacquet-Langlands duality**<br> Andrew Salch </td>
@@ -67,12 +79,12 @@ Part of the construction of the TJL dual is a solution to an old problem on cons
 <tr>
 <td markdown="span">**April 2, 2024**</td>
 <td markdown="span">
-**TBD**<br> J.D. Quigley </td>
+**Detecting exotic spheres and their symmetries with stable homotopy theory**<br> J.D. Quigley </td>
 </tr>
 <tr>
 <td></td>
 <td markdown="span">
-TBD
+An exotic n-sphere is a smooth n-manifold which is homeomorphic, but not diffeomorphic, to the n-sphere with its standard smooth structure. Exotic spheres are fundamental objects in algebraic and geometric topology, but even after decades of intense study, there are many simple-sounding questions about them which are unanswered. In which dimensions do exotic spheres exist? Can you rotate an exotic sphere as you would a standard sphere? Are exotic spheres "round" like the standard sphere? In this talk, I will survey what is known about exotic spheres and their geometry. I will then report on joint work with Mark Behrens and Mark Mahowald, Prasit Bhattacharya and Irina Bobkova, and Boris Bovtinnik on detecting exotic spheres and their smooth symmetries. 
 </td>
 </tr>
 
