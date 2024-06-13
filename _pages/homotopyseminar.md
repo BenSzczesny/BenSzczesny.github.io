@@ -91,15 +91,56 @@ An exotic n-sphere is a smooth n-manifold which is homeomorphic, but not diffeom
 <tr>
 <td markdown="span">**April 23, 2024**</td>
 <td markdown="span">
-**TBD**<br> Alicia Lima </td>
+**Talk by Alicia Lima**<br> Alicia Lima </td>
 </tr>
 <tr>
 <td></td>
 <td markdown="span">
-TBD
+In this talk, I will discuss recent developments in the study of the exotic Picard group of the K(p−1)-local category – one of the building blocks of the category of spectra Sp – at a general odd prime p. Unlike the category of spectra Sp, where shifts of the sphere spectrum are the only invertible objects, the K(n)-local category exhibits more unusual invertible objects.
+
+In collaboration with Bobkova, Lachmann, Li, Stojanoska, and Zhang, we have established bounds on the descent filtration of the exotic Picard group of the K(p−1)-local category for prime p>3. Furthermore, we also deduced that the K(p−1)-local Adams-Novikov spectral sequence for the sphere has a horizontal vanishing line at 3(p−1)^2+1 on the E_2(p−1)^2+2-page. 
 </td>
 </tr>
 
+<tr>
+<td markdown="span">**May 8, 2024**</td>
+<td markdown="span">
+**A classification of stable symmetric monoidal model categories**<br> Boris Chorny (Haifa) </td>
+</tr>
+<tr>
+<td></td>
+<td markdown="span">
+Since the 2003 paper by Schwede and Shipley about the classification of stable model categories as categories of modules over a ``ring spectrum with several objects'', the question of specification of this result for symmetric monoidal model categories remained open, although Lurie solved it in the stable infinity category settings.
+
+In this talk we will present a classification of stable symmetric monoidal model categories (with the monoidal unit being a compact generator) as the categories of modules over a commutative ring spectrum, up to Quillen equivalence.
+
+Joint work with Ozgur Bayindir.
+</td>
+</tr>
+
+<tr>
+<td markdown="span">**May 15, 2024**</td>
+<td markdown="span">
+**Small functors in homotopy theory**<br> Boris Chorny (Haifa) </td>
+</tr>
+<tr>
+<td></td>
+<td markdown="span">
+A functor is small if it is a left Kan extension of from a small subcategory of the domain or, equivalently, if it is a small colimit of representable functors. We will present several ways to do homotopy theory on small functors taking values in simplicial sets or spectra. The applications include: equivariant homotopy theory, calculus of funtors, representability theorems up to homotopy.
+</td>
+</tr>
+
+<tr>
+<td markdown="span">**May 22, 2024**</td>
+<td markdown="span">
+**A classification of small linear functors**<br> Boris Chorny (Haifa) </td>
+</tr>
+<tr>
+<td></td>
+<td markdown="span">
+We will continue the discussion of applications of small functors to representability theorems up to homotopy, calculus of functors, and finish by a classification of small linear functors from spectra to spaces.
+</td>
+</tr>
 
 </tbody>
 </table>
