@@ -27,7 +27,7 @@ The Homotopy Seminar @OSU is currently co-organized by myself and Zeshen Gu. The
 <tr>
 <td markdown="span">**Jan 30, 2024**</td>
 <td markdown="span">
-**The homotopy theory of ideals structured by operads**<br> David White </td>
+**The homotopy theory of ideals structured by operads**<br> [David White (Denison)](http://personal.denison.edu/%7Ewhiteda/index.html) </td>
 </tr>
 <tr>
 <td></td>
@@ -39,7 +39,7 @@ In 2006, Jeff Smith gave a talk explaining how to define ideals in the context o
 <tr>
 <td markdown="span">**March 5, 2024**</td>
 <td markdown="span">
-**Equivariantly enriched curve counting**<br> Candace Bethea </td>
+**Equivariantly enriched curve counting**<br> [Candace Bethea](https://sites.google.com/view/candacebethea/) </td>
 </tr>
 <tr>
 <td></td>
@@ -51,7 +51,7 @@ Enumerative geometry asks for integral solutions to geometric questions, such as
 <tr>
 <td markdown="span">**March 19, 2024**</td>
 <td markdown="span">
-**Synthetic cyclotomic spectra and the even filtration**<br> Noah Riggenbach </td>
+**Synthetic cyclotomic spectra and the even filtration**<br> [Noah Riggenbach (Northwestern)](https://sites.google.com/view/riggenbachn) </td>
 </tr>
 <tr>
 <td></td>
@@ -63,7 +63,7 @@ Synthetic spectra, as defined by Pstrągowski, are infinity categories which act
 <tr>
 <td markdown="span">**March 26, 2024**</td>
 <td markdown="span">
-**ell-adic topological Jacquet-Langlands duality**<br> Andrew Salch </td>
+**ell-adic topological Jacquet-Langlands duality**<br> [Andrew Salch (Wayne State)](https://asalch.wayne.edu/) </td>
 </tr>
 <tr>
 <td></td>
@@ -79,7 +79,7 @@ Part of the construction of the TJL dual is a solution to an old problem on cons
 <tr>
 <td markdown="span">**April 2, 2024**</td>
 <td markdown="span">
-**Detecting exotic spheres and their symmetries with stable homotopy theory**<br> J.D. Quigley </td>
+**Detecting exotic spheres and their symmetries with stable homotopy theory**<br> [J.D. Quigley (Virginia)](https://quigleyjd.github.io/) </td>
 </tr>
 <tr>
 <td></td>
@@ -91,7 +91,7 @@ An exotic n-sphere is a smooth n-manifold which is homeomorphic, but not diffeom
 <tr>
 <td markdown="span">**April 23, 2024**</td>
 <td markdown="span">
-**Talk by Alicia Lima**<br> Alicia Lima </td>
+**Talk by Alicia Lima**<br> Alicia Lima (Chicago) </td>
 </tr>
 <tr>
 <td></td>
@@ -105,7 +105,7 @@ In collaboration with Bobkova, Lachmann, Li, Stojanoska, and Zhang, we have esta
 <tr>
 <td markdown="span">**May 8, 2024**</td>
 <td markdown="span">
-**A classification of stable symmetric monoidal model categories**<br> Boris Chorny (Haifa) </td>
+**A classification of stable symmetric monoidal model categories**<br> [Boris Chorny (Haifa)](https://math.haifa.ac.il/chorny/) </td>
 </tr>
 <tr>
 <td></td>
@@ -121,7 +121,7 @@ Joint work with Ozgur Bayindir.
 <tr>
 <td markdown="span">**May 15, 2024**</td>
 <td markdown="span">
-**Small functors in homotopy theory**<br> Boris Chorny (Haifa) </td>
+**Small functors in homotopy theory**<br> [Boris Chorny (Haifa)](https://math.haifa.ac.il/chorny/) </td>
 </tr>
 <tr>
 <td></td>
@@ -133,7 +133,7 @@ A functor is small if it is a left Kan extension of from a small subcategory of 
 <tr>
 <td markdown="span">**May 22, 2024**</td>
 <td markdown="span">
-**A classification of small linear functors**<br> Boris Chorny (Haifa) </td>
+**A classification of small linear functors**<br> [Boris Chorny (Haifa)](https://math.haifa.ac.il/chorny/) </td>
 </tr>
 <tr>
 <td></td>
