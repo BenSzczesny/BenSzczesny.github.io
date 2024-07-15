@@ -28,9 +28,14 @@ layout: default
               class=profile_image_class
               alt=page.profile.image -%}
             {% endif -%}
+            {%- if site.email %}
+            <div class="Email">
+              <b>Email:</b> {{ site.email }}
+            </div>
+            {%- endif %}
             {%- if page.profile.address %}
             <div class="address">
-              {{ page.profile.address }}
+              <b>Office:</b> {{ page.profile.address }}
             </div>
             {%- endif %}
           </div>
