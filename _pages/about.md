@@ -21,6 +21,8 @@ My research interests lie in equivariant homotopy theory. You can see the resear
 
 I finished my PhD in 2023 from [UCLA](https://ww3.math.ucla.edu/) where I worked on equivariant operad theory under the guidance of [Mike Hill](https://www.math.ucla.edu/~mikehill/).
 
+You pronounce my last name as Shez-nee.
+
 
 
 
