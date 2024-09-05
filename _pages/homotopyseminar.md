@@ -7,10 +7,67 @@ nav: true
 nav_order: 4
 ---
 
-The Homotopy Seminar @OSU is currently co-organized by myself and Zeshen Gu. The Seminar meeting time is 1:45-2:45pm Tuesdays in MT152 unless otherwise advertised.
+The Homotopy Seminar @OSU is currently co-organized by myself and Zeshen Gu. The Seminar meeting time is 3-4pm Thursdays in MW152 unless otherwise advertised.
 
-## Spring 2024 Schedule
 
+## Autumn 2024
+
+<table>
+<colgroup>
+<col width="20%" />
+<col width="80%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Date</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td markdown="span">**Sep 5, 2024**</td>
+<td markdown="span">
+**Fields in Equivariant Algebra**<br> Noah Wisdom (Northwestern) </td>
+</tr>
+<tr>
+<td></td>
+<td markdown="span">
+Tambara functors generalize finite Galois extensions and are of independent interest to equivariant homotopy theorists, appearing as the homotopy groups of ring spectra. Nakaoka defined the notion of a field-like Tambara functor (for which Galois extensions provide an example). In this talk, we'll introduce Tambara functors and classify field-like Tambara functors for the group $$C_{p^n}$$. Additionally, in collaboration with Ben Spitz and Jason Schuchardt, we will study what it means for such a Tambara functor to be algebraically closed, or "Nullstellensatzian" (in the sense of Burklund-Schlank-Yuan), with an eye towards an equivariant chromatic Nullstellensatz.
+</td>
+</tr>
+
+<tr>
+<td markdown="span">**Sep 19, 2024**</td>
+<td markdown="span">
+**TBD**<br> Myungsin Cho (Indiana Bloomington) </td>
+</tr>
+<tr>
+<td></td>
+<td markdown="span">
+TBD
+</td>
+</tr>
+
+<tr>
+<td markdown="span">**Dec 5, 2024**</td>
+<td markdown="span">
+**TBD**<br> Lucas Williams (Binghamton) </td>
+</tr>
+<tr>
+<td></td>
+<td markdown="span">
+TBD
+</td>
+</tr>
+
+</tbody>
+</table>
+
+## Past Semesters
+<div>
+<p>Spring 2024 Talks</p>
+<p>[expand]</p>
 <table>
 <colgroup>
 <col width="20%" />
@@ -144,9 +201,12 @@ We will continue the discussion of applications of small functors to representab
 
 </tbody>
 </table>
+<p>[/expand]</p>
+</div>
 
-
-## Autumn 2023 Schedule
+<div>
+<p>Autumn 2023 Talks</p>
+<p>[expand]</p>
 <table>
 <colgroup>
 <col width="20%" />
@@ -160,7 +220,7 @@ We will continue the discussion of applications of small functors to representab
 </thead>
 <tbody>
 <tr>
-<td markdown="span">**Oct 10, 2023**<br> In Room JR0295</td>
+<td markdown="span">**Oct 10, 2023**</td>
 <td markdown="span">
 **Equivariant Dunn Additivity**<br> Ben Szczesny </td>
 </tr>
@@ -223,3 +283,5 @@ Chromatic homotopy theory attempts to study the stable homotopy category by brea
 
 </tbody>
 </table>
+<p>[/expand]</p>
+</div>
