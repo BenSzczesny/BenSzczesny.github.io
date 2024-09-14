@@ -50,6 +50,18 @@ TBD
 </tr>
 
 <tr>
+<td markdown="span">**Oct 3, 2024**</td>
+<td markdown="span">
+**Model structures on operads and algebras from a global perspective**<br> David White (Dennison) </td>
+</tr>
+<tr>
+<td></td>
+<td markdown="span">
+ I will report on joint work with Michael Batanin and Florian De Leger studying the homotopy theory of the Grothendieck construction, given a category B and a functor F from B^op to CAT. We introduce powerful new techniques for constructing transferred model structures on Grothendieck constructions, such as the category of pairs (P,A) where P is a (symmetric or non-symmetric) colored operad and A is a P-algebra or a left P-module. From such a (semi-)model structure on pairs, we produce a “horizontal" (semi-)model structure on the base B and “vertical” (semi-)model structures on the fibers F(P). This recovers in a unified framework all known (semi-)model structures on categories of operads and their algebras, and produces new model structures, e.g., on the category of twisted modular operads. Additionally, we study when these model structures are left proper, and when a weak equivalence in the base B gives rise to a Quillen equivalence of fibers. Applications include change of rings, rectification of operad-algebras, and strictification for categorical structures. The relevant arXiv papers are at arXiv:2311.07320 and arXiv:2311.07322.
+</td>
+</tr>
+
+<tr>
 <td markdown="span">**Dec 5, 2024**</td>
 <td markdown="span">
 **TBD**<br> Lucas Williams (Binghamton) </td>
