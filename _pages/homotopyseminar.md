@@ -52,7 +52,7 @@ TBD
 <tr>
 <td markdown="span">**Oct 3, 2024**</td>
 <td markdown="span">
-**Model structures on operads and algebras from a global perspective**<br> David White (Dennison) </td>
+**Model structures on operads and algebras from a global perspective**<br> David White (Denison) </td>
 </tr>
 <tr>
 <td></td>
