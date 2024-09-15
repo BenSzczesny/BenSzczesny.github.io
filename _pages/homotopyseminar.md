@@ -40,12 +40,12 @@ Tambara functors generalize finite Galois extensions and are of independent inte
 <tr>
 <td markdown="span">**Sep 19, 2024**</td>
 <td markdown="span">
-**TBD**<br> Myungsin Cho (Indiana Bloomington) </td>
+**Fiber of the cyclotomic trace of the sphere spectrum and K-theoretic Tate-Poitou duality at prime 2.**<br> Myungsin Cho (Indiana Bloomington) </td>
 </tr>
 <tr>
 <td></td>
 <td markdown="span">
-TBD
+Understanding the algebraic K-theory of the sphere spectrum has long been recognized as a fundamental problem in algebraic and differential topology. Since the homotopy fiber of its p-completed cyclotomic trace depends only on the zeroth homotopy group, we can apply algebraic methods to study it. Blumberg and Mandell’s work demonstrates that, for odd primes, Tate-Poitou duality can be enhanced to an Anderson duality between the homotopy fiber and the K(1)-local K-theory of the integers. In this talk, I will present this connection and extend the result to the case where p=2.
 </td>
 </tr>
 
