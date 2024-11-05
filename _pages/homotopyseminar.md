@@ -62,6 +62,30 @@ Understanding the algebraic K-theory of the sphere spectrum has long been recogn
 </tr>
 
 <tr>
+<td markdown="span">**November 14, 2024**</td>
+<td markdown="span">
+**TBD**<br> Michael Joseph Monaco (Purdue) </td>
+</tr>
+<tr>
+<td></td>
+<td markdown="span">
+TBD
+</td>
+</tr>
+
+<tr>
+<td markdown="span">**November 21, 2024**</td>
+<td markdown="span">
+**TBD**<br> Zhonghui Sun (Michigan State) </td>
+</tr>
+<tr>
+<td></td>
+<td markdown="span">
+TBD
+</td>
+</tr>
+
+<tr>
 <td markdown="span">**Dec 5, 2024**</td>
 <td markdown="span">
 **TBD**<br> Lucas Williams (Binghamton) </td>
