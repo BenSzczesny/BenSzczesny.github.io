@@ -76,12 +76,14 @@ TBD
 <tr>
 <td markdown="span">**November 21, 2024**</td>
 <td markdown="span">
-**TBD**<br> Zhonghui Sun (Michigan State) </td>
+**Equivariant bicategorical shadows and traces**<br> Zhonghui Sun (Michigan State) </td>
 </tr>
 <tr>
 <td></td>
 <td markdown="span">
-TBD
+Bicategorical shadows, defined by Ponto, provide a framework which generalizes (topological) Hochschild homology. Bicategorical shadows have important properties, such as Morita invariance, and allow one to generalize the symmetric monoidal trace to a bicategorical trace. Topological Hochschild homology (THH), which is an essential component to the trace methods approach for algebraic K-theory, is a key example of a bicategorical shadow.
+
+In recent years, equivariant versions of topological Hochschild homology have emerged. In particular, for a C_n-ring spectrum there is a theory of C_n-twisted THH, constructed via equivariant norms. However, twisted THH fails to be a bicategorical shadow. In this talk, we will explain a new framework of equivariant bicategorical shadows, and explain why twisted THH is a g-twisted shadow. We also explore g-twisted bicategorical traces.
 </td>
 </tr>
 
