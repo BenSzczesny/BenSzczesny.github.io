@@ -64,12 +64,12 @@ Understanding the algebraic K-theory of the sphere spectrum has long been recogn
 <tr>
 <td markdown="span">**November 14, 2024**</td>
 <td markdown="span">
-**TBD**<br> Michael Joseph Monaco (Purdue) </td>
+**A plethysm formalism for operadic structures and homological applications**<br> Michael Joseph Monaco (Purdue) </td>
 </tr>
 <tr>
 <td></td>
 <td markdown="span">
-TBD
+In the first part of the talk, we will discuss how bimodules (functors of the form G^{op} x G -> C) provide a satisfactory theory of operadic structures. In particular, we show that this approach has a natural analog to the (Baez--Dolan) plus construction. Among other things, this allows one to generalize Kelly's definition of an operad as a monoid in the category of S-modules. These sorts of monoidal definitions are particularly well-adapted to homological questions and in the second part of the talk we will discuss some future work in this direction. In particular, we discuss some work that generalizes a result of Livernet about the bar construction for an operad. If there is time, we will also discuss some related work that shows that a particular kind of bimodule comonoid naturally admits a bialgebra structure and gives a homological characterization for their B_+ operators in the sense of Connes and Kreimer.
 </td>
 </tr>
 
