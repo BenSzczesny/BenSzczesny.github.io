@@ -90,12 +90,14 @@ In recent years, equivariant versions of topological Hochschild homology have em
 <tr>
 <td markdown="span">**Dec 5, 2024**</td>
 <td markdown="span">
-**TBD**<br> Lucas Williams (Binghamton) </td>
+**Invariants for Families of Periodic Points**<br> Lucas Williams (Binghamton) </td>
 </tr>
 <tr>
 <td></td>
 <td markdown="span">
-TBD
+In this talk we investigate invariants that count periodic points of a map. Given a self map $$f$$ of a compact manifold we could detect $$n$$-periodic points of $$f$$ by computing the Reidemeister trace of $$f^n$$ or by computing the equivariant Fuller trace. In 2020 Malkiewich and Ponto showed that the collection of Reidemeister traces of $f^k$ for varying $$k|n$$ and the equivariant Fuller trace are equivalent as periodic point invariants, and they conjecture that for families of endomorphisms the Fuller trace will be a strictly richer invariant for $$n$$-periodic points.
+
+In this talk we will explain our new result which confirms Malkiewich and Ponto's conjecture. We do so by proving a new Pontryagin-Thom isomorphism between equivariant parameterized cobordism and the spectrum of sections of a particular parametrized spectrum and using this result to carry out geometric computations.
 </td>
 </tr>
 

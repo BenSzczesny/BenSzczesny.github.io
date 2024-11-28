@@ -21,5 +21,5 @@ end
 group :other_plugins do
     gem 'httparty'
     gem 'feedjira'
-    gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+    # gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 end
