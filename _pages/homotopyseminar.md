@@ -10,8 +10,40 @@ nav_order: 4
 The Homotopy Seminar @OSU is currently co-organized by myself and Zeshen Gu. The Seminar meeting time is 3-4pm Thursdays in MW152 unless otherwise advertised.
 
 
-## Autumn 2024
+## Spring 2025
+<table>
+<colgroup>
+<col width="20%" />
+<col width="80%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Date</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
 
+<tr>
+<td markdown="span">**Feb 6, 2025**</td>
+<td markdown="span">
+**Machine computation of unstable homotopy groups of spheres**<br> Eva Belmont (Case Western) </td>
+</tr>
+<tr>
+<td></td>
+<td markdown="span">
+Computer calculations have driven several recent breakthroughs involving the stable homotopy groups of spheres, including the solution due to Lin, Wang, and Xu of the remaining case of the Kervaire invariant problem. I will discuss work in progress, joint with Francis Baer, William Balderrama, and Dan Isaksen, to employ some of the same methods to studying the unstable homotopy groups of spheres via the unstable Adams spectral sequence.
+</td>
+</tr>
+
+
+</tbody>
+</table>
+
+## Past Semesters
+<div>
+<p>Autumn 2024 Talks</p>
+<p>[expand]</p>
 <table>
 <colgroup>
 <col width="20%" />
@@ -103,8 +135,9 @@ In this talk we will explain our new result which confirms Malkiewich and Ponto'
 
 </tbody>
 </table>
+<p>[/expand]</p>
+</div>
 
-## Past Semesters
 <div>
 <p>Spring 2024 Talks</p>
 <p>[expand]</p>
