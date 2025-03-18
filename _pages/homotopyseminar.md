@@ -36,6 +36,30 @@ Computer calculations have driven several recent breakthroughs involving the sta
 </td>
 </tr>
 
+<tr>
+<td markdown="span">**April 3, 2025**</td>
+<td markdown="span">
+**Representation Stability for Marked Graph Complexes**<br> Ben Ward (Bowling Green) </td>
+</tr>
+<tr>
+<td></td>
+<td markdown="span">
+We prove a representation stability result for graph complexes with a distinguished vertex, and show how chains realizing this sharp bound represent graph homology classes which are necessarily non-trivial.  This result may be interpreted as a higher genus generalization of Hersh and Reiner's sharp stability bound for configuration spaces of points in odd dimensional Euclidean space, and we will spend some time recalling their result to make this analogy concrete.
+</td>
+</tr>
+
+<tr>
+<td markdown="span">**April 17, 2025**</td>
+<td markdown="span">
+**TBD**<br> David Merhle (Kentucky) </td>
+</tr>
+<tr>
+<td></td>
+<td markdown="span">
+TBD
+</td>
+</tr>
+
 
 </tbody>
 </table>
