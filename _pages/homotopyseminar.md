@@ -51,7 +51,7 @@ We prove a representation stability result for graph complexes with a distinguis
 <tr>
 <td markdown="span">**April 17, 2025**</td>
 <td markdown="span">
-**The image of power operations on Burnside rings**<br> David Merhle (Kentucky) </td>
+**The image of power operations on Burnside rings**<br> David Mehrle (Kentucky) </td>
 </tr>
 <tr>
 <td></td>
